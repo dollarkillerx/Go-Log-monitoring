@@ -6,6 +6,4 @@
 * */
 package defs
 
-type LogProcess struct {
 
-}

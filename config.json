@@ -1,0 +1,5 @@
+{
+  "path": "/tmp/access.log",
+  "influxDBDsn": "username&password",
+  "host": ":8085"
+}
